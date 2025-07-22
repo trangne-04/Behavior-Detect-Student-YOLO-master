@@ -83,7 +83,13 @@ student-detection-system/
 
 ## 📊 Dữ Liệu
 
-Dữ liệu huấn luyện là tập dữ liệu riêng được thu thập bởi nhóm phát triển và hiện không được công khai. Nếu cần dữ liệu cho mục đích nghiên cứu, vui lòng liên hệ với tác giả.
+## 🔗 Tải Mô Hình Huấn Luyện
+
+Do giới hạn dung lượng của GitHub, file mô hình đã được lưu trữ ngoài hệ thống.
+
+👉 [Tải mô hình huấn luyện tại đây (Google Drive – ~1.5GB)](https://drive.google.com/file/d/1ET_vo9y6kYB59Y0s2VB5AMgvkKYq8a2l/view?usp=drive_link)
+
+Nếu không tải được, vui lòng kiểm tra quyền truy cập hoặc liên hệ với tác giả.
 
 ## 🛠️ Công Nghệ Sử Dụng
 
