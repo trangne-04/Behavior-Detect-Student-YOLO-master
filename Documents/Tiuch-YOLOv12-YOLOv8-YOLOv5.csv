@@ -1,0 +1,8 @@
+"Tiêu chí","YOLOv12","YOLOv8","YOLOv5"
+"Kiến trúc chính","R-ELAN backbone, FlashAttention, tích hợp convolution 7x7 separable","CSPDarknet53 backbone với module spatial attention và feature fusion","CSPDarknet backbone, mosaic augmentation, PyTorch-native"
+"mAP (COCO)","~55-58% (cải thiện so với YOLOv11)","~53-56%","~50-54%"
+"Tốc độ (FPS)","120-150 FPS (tùy biến thể)","160-200 FPS","140 FPS (batch) / 10 FPS (single image)"
+"Kích thước mô hình","45-90 MB (phức tạp hơn YOLOv11)","~25-85 MB (tùy biến thể)","27-192 MB (YOLOv5s nhỏ nhất)"
+"Cải tiến nổi bật","FlashAttention cho xử lý vùng quan tâm, tối ưu hóa backbone","Adaptive training, multi-backbone hỗ trợ EfficientNet/ResNet","Triển khai PyTorch-native, mosaic augmentation, kích thước siêu nhỏ"
+"Ứng dụng điển hình","Hệ thống tự hành, phân tích an ninh thời gian thực","Giám sát thông minh, quản lý giao thông","Thiết bị nhúng, ứng dụng tốc độ cao"
+"Hiệu quả tính toán","GFLOPs cao do kiến trúc phức tạp","Cân bằng giữa độ chính xác và hiệu suất","Tối ưu cho phần cứng hạn chế tài nguyên"
