@@ -87,7 +87,7 @@ student-detection-system/
 
 Do giới hạn dung lượng của GitHub, file mô hình đã được lưu trữ ngoài hệ thống.
 
-👉 [Tải mô hình huấn luyện tại đây (Google Drive – ~1.5GB)](https://drive.google.com/file/d/1ET_vo9y6kYB59Y0s2VB5AMgvkKYq8a2l/view?usp=drive_link)
+👉 [Tải mô hình huấn luyện tại đây: https://drive.google.com/drive/folders/1GPVTQJdGeF0A9EbdJ7Io2iQpxnUGWnJP?usp=drive_link
 
 Nếu không tải được, vui lòng kiểm tra quyền truy cập hoặc liên hệ với tác giả.
 
